@@ -128,5 +128,3 @@ If you share the dashboard or report with anyone, remember it contains your full
 | Dashboard is blank | Re-download the latest script, delete old output, re-run, then extract the zip before opening. A red banner at the top of the page shows any error |
 
 ## License
-
-MIT. Add a `LICENSE` file to your repo if you want it to apply.
